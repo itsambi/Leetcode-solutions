@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/itsambi/Leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/itsambi/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 ## Dynamic Programming
 |  |
@@ -15,4 +16,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/itsambi/Leetcode-solutions/tree/master/0070-climbing-stairs) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/itsambi/Leetcode-solutions/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/itsambi/Leetcode-solutions/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
