@@ -29,4 +29,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/itsambi/Leetcode-solutions/tree/master/0344-reverse-string) |
+## Array
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/itsambi/Leetcode-solutions/tree/master/0561-array-partition) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/itsambi/Leetcode-solutions/tree/master/0561-array-partition) |
+## Sorting
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/itsambi/Leetcode-solutions/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/itsambi/Leetcode-solutions/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
