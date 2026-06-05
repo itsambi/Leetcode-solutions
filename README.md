@@ -28,10 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/itsambi/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/itsambi/Leetcode-solutions/tree/master/0344-reverse-string) |
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/itsambi/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0561-array-partition](https://github.com/itsambi/Leetcode-solutions/tree/master/0561-array-partition) |
 ## Greedy
 |  |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/itsambi/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0561-array-partition](https://github.com/itsambi/Leetcode-solutions/tree/master/0561-array-partition) |
 ## Counting Sort
 |  |
