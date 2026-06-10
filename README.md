@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/itsambi/Leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/itsambi/Leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/itsambi/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/itsambi/Leetcode-solutions/tree/master/0189-rotate-array) |
@@ -24,11 +25,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/itsambi/Leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/itsambi/Leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/itsambi/Leetcode-solutions/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/itsambi/Leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/itsambi/Leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/itsambi/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/itsambi/Leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
