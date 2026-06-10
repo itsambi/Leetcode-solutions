@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/itsambi/Leetcode-solutions/tree/master/0198-house-robber) |
 | [0274-h-index](https://github.com/itsambi/Leetcode-solutions/tree/master/0274-h-index) |
 | [0561-array-partition](https://github.com/itsambi/Leetcode-solutions/tree/master/0561-array-partition) |
+| [0946-validate-stack-sequences](https://github.com/itsambi/Leetcode-solutions/tree/master/0946-validate-stack-sequences) |
 ## Greedy
 |  |
 | ------- |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/itsambi/Leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0946-validate-stack-sequences](https://github.com/itsambi/Leetcode-solutions/tree/master/0946-validate-stack-sequences) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -143,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/itsambi/Leetcode-solutions/tree/master/0389-find-the-difference) |
+## Simulation
+|  |
+| ------- |
+| [0946-validate-stack-sequences](https://github.com/itsambi/Leetcode-solutions/tree/master/0946-validate-stack-sequences) |
 <!---LeetCode Topics End-->
