@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/itsambi/Leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/itsambi/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/itsambi/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/itsambi/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/itsambi/Leetcode-solutions/tree/master/0344-reverse-string) |
 | [1768-merge-strings-alternately](https://github.com/itsambi/Leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 ## Array
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/itsambi/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/itsambi/Leetcode-solutions/tree/master/0198-house-robber) |
 | [0274-h-index](https://github.com/itsambi/Leetcode-solutions/tree/master/0274-h-index) |
+| [0283-move-zeroes](https://github.com/itsambi/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0561-array-partition](https://github.com/itsambi/Leetcode-solutions/tree/master/0561-array-partition) |
 | [0946-validate-stack-sequences](https://github.com/itsambi/Leetcode-solutions/tree/master/0946-validate-stack-sequences) |
 ## Greedy
