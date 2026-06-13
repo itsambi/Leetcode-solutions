@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/itsambi/Leetcode-solutions/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/itsambi/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0561-array-partition](https://github.com/itsambi/Leetcode-solutions/tree/master/0561-array-partition) |
+| [0896-monotonic-array](https://github.com/itsambi/Leetcode-solutions/tree/master/0896-monotonic-array) |
 | [0946-validate-stack-sequences](https://github.com/itsambi/Leetcode-solutions/tree/master/0946-validate-stack-sequences) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/itsambi/Leetcode-solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/itsambi/Leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
