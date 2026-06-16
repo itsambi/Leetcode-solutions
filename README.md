@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/itsambi/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/itsambi/Leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/itsambi/Leetcode-solutions/tree/master/0189-rotate-array) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/itsambi/Leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/itsambi/Leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Dynamic Programming
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/itsambi/Leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0459-repeated-substring-pattern](https://github.com/itsambi/Leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
 | [0709-to-lower-case](https://github.com/itsambi/Leetcode-solutions/tree/master/0709-to-lower-case) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/itsambi/Leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/itsambi/Leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 ## Two Pointers
 |  |
