@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/itsambi/Leetcode-solutions/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/itsambi/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0561-array-partition](https://github.com/itsambi/Leetcode-solutions/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/itsambi/Leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0682-baseball-game](https://github.com/itsambi/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [0896-monotonic-array](https://github.com/itsambi/Leetcode-solutions/tree/master/0896-monotonic-array) |
 | [0946-validate-stack-sequences](https://github.com/itsambi/Leetcode-solutions/tree/master/0946-validate-stack-sequences) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/itsambi/Leetcode-solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/itsambi/Leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0561-array-partition](https://github.com/itsambi/Leetcode-solutions/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/itsambi/Leetcode-solutions/tree/master/0605-can-place-flowers) |
 ## Sorting
 |  |
 | ------- |
